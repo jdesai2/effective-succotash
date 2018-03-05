@@ -10,23 +10,24 @@ and missed deadlines.
 
 ## How we will assign (and reassign) tasks
 
-We will discuss our strengths and weaknesses and assign tasks corresponding to our strengths. 
-If time permits, we will reassign tasks if any individual is encumbered with their current workload.
+
+
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
-We will track each others progress through github and make sure everyone is completing tasks. We will also use groupme as our 
-way of communicating with one another. Groupme is the main way for messages to get between members.
+
 
 ## How will will communicate difficulties with a task assigned to us
-We will bring up any concerns of ours to the other members in the group after giving it our own best effort. From there,
-all other members of the group will assist as they can in order to ensure that the task is completed.
+
 
 
 ## How we will back up each other to ensure that deadlines are not missed
 
-
+We will make sure that we message each other on a daily basis, try to assign
+work properly, and help one another out if a situation arises. By messaging
+each other, we can keep track of progress and make sure that work is being completed 
+on time. 
 
 
 
